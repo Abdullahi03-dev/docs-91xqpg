@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-m87qor.nuansa138win.space/sitemap.xml
